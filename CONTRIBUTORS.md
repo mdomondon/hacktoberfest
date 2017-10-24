@@ -16622,3 +16622,8 @@ to explore life. Also, Python and Django Developer
 - Place: Larisa, Greece
 - Bio: Software Engineer, Data Analyst
 - GitHub: [miltoskat](https://github.com/miltoskat)
+
+#### Name: [Mark Domo] (https://github.com/mdomondon) 
+- Place: New York 
+- Bio: Engineer learning coding 
+- GitHub: [mdomondon](https://github.com/mdomondon) 
